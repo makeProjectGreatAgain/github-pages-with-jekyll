@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+theme: minima
+title: my title
+author: me
+description: my description
